@@ -1,2 +1,2 @@
 # unipoller
-snmp poller to retrieve Wifi Access Points MIB information
+Snmp poller to retrieve Wifi Access Points MIB information
